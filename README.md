@@ -1,2 +1,2 @@
 # CarND-behavioral-cloning-solution
-Solution to the Udacity Self-Driving Car Engineer Nanodegree behavioral cloning project.
+A solution to the [Udacity](https://github.com/udacity/self-driving-car-sim) Self-Driving Car Engineer Nanodegree behavioral cloning project.
